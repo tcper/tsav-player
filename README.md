@@ -1,7 +1,7 @@
 # TSAV player
 
-Bellard just published his new TSAV file format
-Using neural network to compress wav file into incredibal size
+Bellard just published his new [TSAV format](https://bellard.org/tsac/)
+Using neural audio  to compress wav file into incredible size
 But now no player can play this format directly!
 
 This is what you want TSAV file player
