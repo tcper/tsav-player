@@ -1,7 +1,9 @@
 # TSAV player
 
 Bellard just published his new [TSAV format](https://bellard.org/tsac/)
+
 Using neural audio  to compress wav file into incredible size
+
 But now no player can play this format directly!
 
 This is what you want TSAV file player
@@ -9,6 +11,7 @@ This is what you want TSAV file player
 ## Description
 
 Firstly, it's a Electron app. (I know all the arguments about this)
+
 Secondly, the process is simple, transform the TSAV file into wav and play.
 
 ## Getting Started
@@ -19,6 +22,7 @@ npm install
 npm run start
 ```
 
+https://github.com/tcper/tsav-player/assets/363082/e665f0af-ef1e-4878-bf10-90c7c173284e
 
 ### Dependencies
 
